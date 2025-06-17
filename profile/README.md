@@ -1,12 +1,31 @@
-## Hi there 👋
+# TextNeckHub 서비스
 
-<!--
+거북목(텍스트넥) 예방을 위한 실시간 자세 모니터링 및 알림 서비스입니다.
 
-**Here are some ideas to get you started:**
+## 소개
+- 웹캠을 통해 사용자의 목 자세를 실시간으로 추적합니다.
+- 잘못된 자세가 감지되면 알림을 통해 교정할 수 있도록 도와줍니다.
+- Docker 환경에서 손쉽게 배포 및 실행이 가능합니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 주요 기능
+- 실시간 목 자세 트래킹
+- 자세 이상 시 알림 제공
+- 다양한 필터 및 시각화 기능
+- 웹 기반 대시보드 제공
+
+## 빠른 시작
+```bash
+docker pull creepereye/turtleneck-saver:0.1
+docker run -d -p 8000:8000 creepereye/turtleneck-saver:0.1
+```
+
+## 기술 스택
+- Python, Flask, PyTorch, OpenCV
+- React (프론트엔드)
+- Docker, Nginx
+
+## 프로젝트 팀원
+- [최지웅](https://github.com/creepereye1204)
+
+---
+문의 및 기여는 이슈 또는 PR로 남겨주세요.
