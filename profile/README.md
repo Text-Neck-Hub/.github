@@ -1,6 +1,7 @@
 # TextNeckHub 서비스
 
 거북목(텍스트넥) 예방을 위한 실시간 자세 모니터링 및 알림 서비스입니다.
+![Uploading textneckhub v4.drawio.png…]()
 
 ## 소개
 - 웹캠을 통해 사용자의 목 자세를 실시간으로 추적합니다.
