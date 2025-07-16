@@ -1,7 +1,7 @@
 # TextNeckHub 서비스
 
 거북목(텍스트넥) 예방을 위한 실시간 자세 모니터링 및 알림 서비스입니다.
-<img width="2530" height="1251" alt="architecture" src="https://github.com/user-attachments/assets/b1712604-930d-4f14-b085-0b9dbe0c127b" />
+
 
 
 
