@@ -18,12 +18,11 @@
 
 ## 빠른 시작
 ```bash
-docker pull creepereye/turtleneck-saver:0.1
-docker run -d -p 8000:8000 creepereye/turtleneck-saver:0.1
+
 ```
 
 ## 기술 스택
-- Python, Flask, PyTorch, OpenCV
+- Python, DRF , FastApi , Flask, OpenCV
 - React (프론트엔드)
 - Docker, Nginx
 
