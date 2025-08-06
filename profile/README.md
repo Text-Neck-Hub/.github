@@ -22,7 +22,7 @@
 ```
 
 ## 기술 스택
-- Python, DRF , FastApi , Flask, OpenCV
+- Python, DRF , FastApi , OpenCV
 - React (프론트엔드)
 - Docker, Nginx
 
