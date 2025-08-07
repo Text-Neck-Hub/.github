@@ -4,7 +4,7 @@
 
 
 ## 아키텍쳐
-![캡처](https://app.diagrams.net/#G1Gyn-q2v5-JQ08FakcliYz-n7epX1KiHL#%7B%22pageId%22%3A%22Ht1M8jgEwFfnCIfOTk4-%22%7D.png)
+![캡처]([https://app.diagrams.net/#G1Gyn-q2v5-JQ08FakcliYz-n7epX1KiHL#%7B%22pageId%22%3A%22Ht1M8jgEwFfnCIfOTk4-%22%7D.png](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-github%2Fmaster%2Fdiagram.png))
 
 
 
