@@ -4,7 +4,9 @@
 
 
 ## 아키텍쳐
-<img src="https://app.diagrams.net/#G1Gyn-q2v5-JQ08FakcliYz-n7epX1KiHL#%7B%22pageId%22%3A%22Ht1M8jgEwFfnCIfOTk4-%22%7D.png"  width="700" height="370">
+![캡처](https://app.diagrams.net/#G1Gyn-q2v5-JQ08FakcliYz-n7epX1KiHL#%7B%22pageId%22%3A%22Ht1M8jgEwFfnCIfOTk4-%22%7D.png)
+
+
 
 
 
