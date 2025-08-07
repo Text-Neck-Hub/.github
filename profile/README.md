@@ -3,6 +3,9 @@
 거북목(텍스트넥) 예방을 위한 실시간 자세 모니터링 및 알림 서비스입니다.
 
 
+## 아키텍쳐
+https://app.diagrams.net/#G1Gyn-q2v5-JQ08FakcliYz-n7epX1KiHL#%7B%22pageId%22%3A%22Ht1M8jgEwFfnCIfOTk4-%22%7D.png
+
 
 
 ## 소개
