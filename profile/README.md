@@ -4,9 +4,8 @@
 
 
 ## 아키텍쳐
-![v6 drawio (1)](https://github.com/user-attachments/assets/c73f092c-a1bb-4a75-b34a-a1fc2281b0a0)
 
-
+![v6 drawio (2)](https://github.com/user-attachments/assets/deb3c478-0d46-485b-99ba-dd0af4be0774)
 
 
 
